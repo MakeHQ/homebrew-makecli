@@ -1,11 +1,11 @@
 # homebrew-makecli
 
-Homebrew tap for [MakeHQ/makecli](https://github.com/MakeHQ/makecli).
+Homebrew tap for [qfeius/makecli](https://github.com/qfeius/makecli).
 
 ## Install
 
 ```bash
-brew tap MakeHQ/makecli
+brew tap qfeius/makecli
 brew install makecli
 ```
 
